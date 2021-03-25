@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375501069820",
+    "project_id": "authentication-demo-b2efc",
+    "storage_bucket": "authentication-demo-b2efc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375501069820:android:98e322a506eb2a972c6679",
+        "android_client_info": {
+          "package_name": "com.task.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375501069820-lama69r2jsl5ves6fegag6tif8q0bkg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjCc_pdK5vn_CtepLghqPuF1JtlarRNVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375501069820-lama69r2jsl5ves6fegag6tif8q0bkg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
